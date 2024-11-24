@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class LicenseTypeApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LicenseTypeApiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(LicenseTypeApiApplication.class, args);
+    }
 
 }
